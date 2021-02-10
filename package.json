@@ -1,7 +1,7 @@
 {
-  "name": "FullStack-ReactJs-ExpressJs-Boiler",
+  "name": "fullstack-reactjs-expressjs-boiler",
   "version": "1.0.0",
-  "description": "This is a boilerplate code to create a fullstack web app",
+  "description": "",
   "main": "src/server/index.js",
   "scripts": {
     "build": "webpack --mode=production",
@@ -39,11 +39,5 @@
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2"
   },
-  "keywords": [
-    "React-js",
-    "Boiler",
-    "Fullstack",
-    "Express-js",
-    "API"
-  ]
+  "keywords": ["React-js", "Boiler", "Express-js", "Full-Stack"]
 }
